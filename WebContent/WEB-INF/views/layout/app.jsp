@@ -3,18 +3,18 @@
 <html lang="ja">
     <head>
         <meta charset="UTF-8">
-        <title>タスク管理アプリケーション</title>
+        <title>メッセージボード</title>
     </head>
     <body>
         <div id="wrapper">
             <div id="header">
-                <h1>タスク管理アプリケーション</h1>
+                <h1>メッセージボード アプリケーション</h1>
             </div>
             <div id="content">
                 ${param.content}
             </div>
             <div id="footer">
-                by makoto2.
+                by Taro Kirameki.
             </div>
         </div>
     </body>
